@@ -9,19 +9,20 @@ every android developer.
 
 The content of the course as follows:
 
-Kotlin
-Coroutines
-Retrofit2
-Glide
-ViewModels
-Repository pattern
-NetworkBoundResource (as recommend by architecture guide in google sample see here
+1)Kotlin
+2)Coroutines
+3)Retrofit2
+4)Glide
+5)ViewModels
+6) Repository pattern
+7) NetworkBoundResource (as recommend by architecture guide in google sample see here
 (https://github.com/android/architecture-components-samples/blob/master/GithubBrowserSample/app/src/main/java/com/android/example/github/repository/NetworkBoundResource.kt)
 
 The app does two things:
 
-Get 'User' data from https://open-api.xyz/placeholder/user.
-Get a list of 'BlogPost' data from https://open-api.xyz/placeholder/blogs.
+1) Get 'User' data from https://open-api.xyz/placeholder/user.
+
+2) Get a list of 'BlogPost' data from https://open-api.xyz/placeholder/blogs.
 
 
 
